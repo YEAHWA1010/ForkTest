@@ -1,5 +1,4 @@
 test
 test2
 commit test
-
-conflict test
+conflict test_branch
